@@ -1,1 +1,1 @@
-from practiceforHack.practiceforHack import *
+from forHack.forHack import *
